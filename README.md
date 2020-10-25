@@ -1,4 +1,4 @@
 # hello-world
 Tutorial repository
 
-Hello I'm Nick and I'm working on learning abot Git for my programming work.  
+Hello I'm Nick and I'm working on learning about Git for my GIS work.  
